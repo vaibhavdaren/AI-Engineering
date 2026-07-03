@@ -7,7 +7,8 @@ Notes for Senior/Lead Engineers moving towards AI Engineer.
 2. When doing bug fixing, always start with e2e tests as closely aligned to how an end user will see it. AI models today like to write unit tests. E2E makes sense.
 
 
-# Agents.md Version
+# Agents.md 
+
 - Never use the em dash "—". Use plain dash "-" instead.
 - When writing commit messages, NEVER auto-add your agent name as co-author.
 - Never manually modify `CHANGELOG.md` files or any files that are marked as auto-generated.
