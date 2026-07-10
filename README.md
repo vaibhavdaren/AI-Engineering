@@ -10,6 +10,7 @@ Notes for Senior/Lead Engineers moving towards AI Engineer.
 5. GRASP-Q+ framework for prompting: Goal, Role, Additional Context, Structure, Parameters, Clarifying questions.
 6. Ask LLM to critique its own answer.
 7. Adjust LLM to avoid biases in the data.  We need to avoid historical bias, cultural bias, and confirmation bias.
+8. Most RAG performance gains comes from better retrieval, not model fine-tuning.
 
 
 # Agents.md 
