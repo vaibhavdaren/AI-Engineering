@@ -33,4 +33,4 @@ Notes for Senior/Lead Engineers moving towards AI Engineer.
 
 - Research if AI has experiences. 
 - Research if AI feels something on the inside. 
-- How to handle bias on LLM output. LLM-trained on historic data will prefer male candidates over female candidates. 
+- How to handle bias on LLM output. LLM-trained on historic data will prefer male candidates over female candidates. How to fix this?
