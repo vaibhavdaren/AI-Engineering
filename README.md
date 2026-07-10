@@ -6,7 +6,7 @@ Notes for Senior/Lead Engineers moving towards AI Engineer.
 1. AI does not know its fast at implementing things as it was trained on human data. So when we ask AI to estimate implementation. It does that on human numbers instead of AI. So explicitly ask AI to choose better solution, even if the development cost is more. 
 2. When doing bug fixing, always start with e2e tests as closely aligned to how an end user will see it. AI models today like to write unit tests. E2E makes sense.
 3. Searching the Jspace to see how the input is answered.
-
+4. AI Streams : AGI , ANI , ASI
 
 
 # Agents.md 
